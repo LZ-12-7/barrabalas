@@ -3,5 +3,5 @@ game "gta5"
 author "LZ"
 
 client_scripts {
-  'client/cl_clip.lua'
+  'client/client.lua'
 }
